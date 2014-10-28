@@ -1,2 +1,3 @@
 CS494
-=====Project from CS494
+=====
+files from the final 494 project.
